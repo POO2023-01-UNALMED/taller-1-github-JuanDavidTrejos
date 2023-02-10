@@ -1,0 +1,1 @@
+La carpeta creada en los archivos del computador y subida al github desktop aparece ahora en el repositorio del github web
