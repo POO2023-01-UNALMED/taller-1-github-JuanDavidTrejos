@@ -1,3 +1,8 @@
 Juan David Trejos Gamboa
 18
 Mis aspiraciones en esta materia yacen principalmente en adquirir todos los conocimientos necesarios para desarrollar la capacidad de solucionar problemas en términos de objetos y sus relaciones.  
+
+La carpeta creada en los archivos del computador y subida al github desktop aparece ahora en el repositorio del github web
+
+Es de suma importancia tener precacuación con la modificación de dos archivos simultaneamente, ya que esto puede generar conflictos en el archivo y se debe hacer una mezcla manual
+
